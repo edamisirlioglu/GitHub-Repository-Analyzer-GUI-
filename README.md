@@ -49,4 +49,4 @@ The application will retrieve data from the API and display the results in JSON 
 
 🖼️ Sample Interface (Dark Theme)
 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details (Keep this line if you're adding a license file; otherwise, remove it).
+This project is licensed under the MIT License. See the LICENSE file for details.
